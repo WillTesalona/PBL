@@ -30,3 +30,19 @@ C:\Users\User\Desktop\PBL 1st Sem Gr12\PBL 1st Sem Gr12\obj\Debug\PBL 1st Sem Gr
 C:\Users\User\Desktop\PBL 1st Sem Gr12\PBL 1st Sem Gr12\obj\Debug\PBL 1st Sem Gr12.csproj.CoreCompileInputs.cache
 C:\Users\User\Desktop\PBL 1st Sem Gr12\PBL 1st Sem Gr12\obj\Debug\PBL 1st Sem Gr12.exe
 C:\Users\User\Desktop\PBL 1st Sem Gr12\PBL 1st Sem Gr12\obj\Debug\PBL 1st Sem Gr12.pdb
+C:\Users\User\Source\Repos\PBL\PBL 1st Sem Gr12\PBL 1st Sem Gr12\bin\Debug\PBL 1st Sem Gr12.exe.config
+C:\Users\User\Source\Repos\PBL\PBL 1st Sem Gr12\PBL 1st Sem Gr12\bin\Debug\PBL 1st Sem Gr12.exe
+C:\Users\User\Source\Repos\PBL\PBL 1st Sem Gr12\PBL 1st Sem Gr12\bin\Debug\PBL 1st Sem Gr12.pdb
+C:\Users\User\Source\Repos\PBL\PBL 1st Sem Gr12\PBL 1st Sem Gr12\obj\Debug\PBL 1st Sem Gr12.csprojAssemblyReference.cache
+C:\Users\User\Source\Repos\PBL\PBL 1st Sem Gr12\PBL 1st Sem Gr12\obj\Debug\PBL_1st_Sem_Gr12.Form1.resources
+C:\Users\User\Source\Repos\PBL\PBL 1st Sem Gr12\PBL 1st Sem Gr12\obj\Debug\PBL_1st_Sem_Gr12.Form2.resources
+C:\Users\User\Source\Repos\PBL\PBL 1st Sem Gr12\PBL 1st Sem Gr12\obj\Debug\PBL_1st_Sem_Gr12.GetInfoForm.resources
+C:\Users\User\Source\Repos\PBL\PBL 1st Sem Gr12\PBL 1st Sem Gr12\obj\Debug\PBL_1st_Sem_Gr12.MovieForm.resources
+C:\Users\User\Source\Repos\PBL\PBL 1st Sem Gr12\PBL 1st Sem Gr12\obj\Debug\PBL_1st_Sem_Gr12.Properties.Resources.resources
+C:\Users\User\Source\Repos\PBL\PBL 1st Sem Gr12\PBL 1st Sem Gr12\obj\Debug\PBL_1st_Sem_Gr12.RecordForm.resources
+C:\Users\User\Source\Repos\PBL\PBL 1st Sem Gr12\PBL 1st Sem Gr12\obj\Debug\PBL_1st_Sem_Gr12.SeatForm.resources
+C:\Users\User\Source\Repos\PBL\PBL 1st Sem Gr12\PBL 1st Sem Gr12\obj\Debug\PBL_1st_Sem_Gr12.SeatForm2.resources
+C:\Users\User\Source\Repos\PBL\PBL 1st Sem Gr12\PBL 1st Sem Gr12\obj\Debug\PBL 1st Sem Gr12.csproj.GenerateResource.cache
+C:\Users\User\Source\Repos\PBL\PBL 1st Sem Gr12\PBL 1st Sem Gr12\obj\Debug\PBL 1st Sem Gr12.csproj.CoreCompileInputs.cache
+C:\Users\User\Source\Repos\PBL\PBL 1st Sem Gr12\PBL 1st Sem Gr12\obj\Debug\PBL 1st Sem Gr12.exe
+C:\Users\User\Source\Repos\PBL\PBL 1st Sem Gr12\PBL 1st Sem Gr12\obj\Debug\PBL 1st Sem Gr12.pdb
